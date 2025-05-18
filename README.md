@@ -2,6 +2,8 @@
 
 This repository contains a collection of academic paper reviews written during my Erasmus at the Faculty of Economic Sciences, University of Warsaw (2021/2022). Each review critically analyzes a scientific article and includes key figures, tables, and commentary.
 
+> For the reviews related to the *Text Mining and Social Media Mining* course, I worked as part of a group with a fellow student. However, each review was written individually, so the content and analysis are entirely my own (hence the use of "we" in the documents, referring to the group context).
+
 ## 📚 Reviewed Topics
 
 - **Text Mining and Social Media Mining** (2 reviews)
