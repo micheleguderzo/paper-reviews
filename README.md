@@ -12,12 +12,15 @@ This repository contains a collection of academic paper reviews written during m
 ### 🗂 List of Reviews
 
 - **Construction accident narrative classification: An evaluation of text mining techniques** – *Text Mining and Social Media Mining*  
+Original article by Yang Miang Goh & C.U. Ubeynarayana (2017)  
   [📄 PDF](text-mining-and-social-media-mining/review-1/final_review_1.pdf)
 
 - **Unsupervised word embeddings capture latent knowledge from materials science literature** – *Text Mining and Social Media Mining*  
+Original article by Vahe Tshitoyan et al. (2019)  
   [📄 PDF](text-mining-and-social-media-mining/review-2/final_review_2.pdf)
 
 - **Comparing spatial metrics of extreme precipitation between data from rain gauges, weather radar and high-resolution climate model re-analyses** – *Spatial Econometrics in R*  
+Original article by Emma Dybro Thomassen et al. (2021)
   [📄 PDF](spatial-econometrics/final_review.pdf)
 
 <!--
