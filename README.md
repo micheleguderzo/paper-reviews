@@ -20,7 +20,7 @@ Original article by Vahe Tshitoyan et al. (2019)
   [📄 PDF](text-mining-and-social-media-mining/review-2/final_review_2.pdf)
 
 - **Comparing spatial metrics of extreme precipitation between data from rain gauges, weather radar and high-resolution climate model re-analyses** – *Spatial Econometrics in R*  
-Original article by Emma Dybro Thomassen et al. (2021)
+Original article by Emma Dybro Thomassen et al. (2021)  
   [📄 PDF](spatial-econometrics/final_review.pdf)
 
 <!--
